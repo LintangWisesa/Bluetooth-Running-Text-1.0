@@ -229,7 +229,7 @@ void DrawText( byte pjgString) {
 ### **4. Have Fun!** :joy:
 - After uploading process is done, reconnect TX & RX from Bluetooth module to RX & TX on Arduino board then restart it.
 - Open LIN Bluetooth SPP App, then connect to your Bluetooth module. If the Bluetooth module asks for a password, by default it's __'1234'__ (except you have changed it!).
-- After connected you can type a message, send it then it will be displayed on our running text automatically. Have fun! 
+- After all connected, you can type a message, send it, then it will be displayed on our running text automatically. Have fun! 
 
 #
 
