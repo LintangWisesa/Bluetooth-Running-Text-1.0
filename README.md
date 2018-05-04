@@ -34,7 +34,7 @@ Gather your parts then follow the schematics below.
  - RX Bluetooth HC-05 to TX Arduino
  - TX Bluetooth HC-05 to RX Arduino
 
-![Bluetooth Running Text 1.0 schematics](https://raw.githubusercontent.com/LintangWisesa/Tamiya-Androino-1.0/master/TamiyaAndroino.png)
+![Bluetooth Running Text 1.0 schematics](https://raw.githubusercontent.com/LintangWisesa/Bluetooth-Running-Text-1.0/master/BluetoothRunningText1.png)
 
 #
 
@@ -228,11 +228,8 @@ void DrawText( byte pjgString) {
 
 ### **4. Have Fun!** :joy:
 - After uploading process is done, reconnect TX & RX from Bluetooth module to RX & TX on Arduino board then restart it.
-- Open LIN Bluetooth SPP App or Blueterm App, then connect to your Bluetooth module. If the Bluetooth module asks for a password, by default it's __'1234'__ (except you have changed it!).
-- Here are the simple rules in Tamiya Androino 1.0 project:
-  - It will __stop__ when we send __'0'__
-  - It will **go backward** when we send __'1'__
-  - It will **go forward** when we send __'2'__
+- Open LIN Bluetooth SPP App, then connect to your Bluetooth module. If the Bluetooth module asks for a password, by default it's __'1234'__ (except you have changed it!).
+- After connected you can type a message, send it then it will be displayed on our running text automatically. Have fun! 
 
 #
 
