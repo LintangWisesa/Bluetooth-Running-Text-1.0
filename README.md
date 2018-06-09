@@ -16,7 +16,7 @@
 To build this project, you need the following items:
 - 1 Arduino Uno board
 - 5 LED matrix 8x8 (you can use up to 8 pcs)
-- 5 IC driver MAX7219 (1 for each LED matrix)
+- 5 IC driver MAX7219 (for each LED matrix)
 - 1 Bluetooth HC-05 module
 - some jumper wires
 - Arduino IDE ([download here](https://www.arduino.cc/en/Main/Software))
