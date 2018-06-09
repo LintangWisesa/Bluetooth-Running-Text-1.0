@@ -28,16 +28,16 @@ To build this project, you need the following items:
 ### **2. Schematics** :wrench::hammer:
 
 Gather your parts then follow the schematics below.
- - DIN (Data In) from first MAX7219 to Arduino pin 12
- - CLK (Clock) from first MAX7219 to Arduino pin 11
- - CS (Chip Select) from first MAX7219 to Arduino pin 10
- - GND from first MAX7219 to Arduino GND
- - VCC from first MAX7219 to Arduino 5V
- - Between MAX7219: DIN(input) to DIN(output), CS(in) to CS(out), CLK(in) in to CLK(out), GND(in) to GND(out), VCC(in) to VCC(out)
- - RX Bluetooth HC-05 to TX Arduino
- - TX Bluetooth HC-05 to RX Arduino
- - GND Bluetooth HC-05 to Arduino GND
- - VCC Bluetooth HC-05 to Arduino 5V
+ - **DIN** (Data In) from first MAX7219 to Arduino **pin 12**
+ - **CLK** (Clock) from first MAX7219 to Arduino **pin 11**
+ - **CS** (Chip Select) from first MAX7219 to Arduino **pin 10**
+ - **GND** from first MAX7219 to Arduino **GND**
+ - **VCC** from first MAX7219 to Arduino **5V**
+ - Between MAX7219: DIN(in) to DIN(out), CS(in) to CS(out), CLK(in) to CLK(out), GND(in) to GND(out), VCC(in) to VCC(out)
+ - **RX** Bluetooth HC-05 to **TX** Arduino
+ - **TX** Bluetooth HC-05 to **RX** Arduino
+ - **GND** Bluetooth HC-05 to Arduino **GND**
+ - **VCC** Bluetooth HC-05 to Arduino **5V**
 
 ![Bluetooth Running Text 1.0 schematics](https://raw.githubusercontent.com/LintangWisesa/Bluetooth-Running-Text-1.0/master/BluetoothRunningText1.png)
 
